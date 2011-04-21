@@ -1,3 +1,6 @@
 [submodule "snippets/html"]
 	path = snippets/html
 	url = https://github.com/spf13/snipmate-snippets.git
+[submodule "snippets"]
+	path = snippets
+	url = git@github.com:ajcates/snipmate-snippets.git
